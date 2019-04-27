@@ -1,2 +1,2 @@
 # React comments
-Coding exercise with React for user comments administration
+Coding exercise with React component for user comments administration
